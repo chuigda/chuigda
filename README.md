@@ -1,4 +1,15 @@
-### Hi there 👋
+### ⚠️Warning⚠️: This user may include the following contents:
+ - Ancient Technology
+ - Native Language Fundamentalism
+ - Racket YYDS
+ - Anti-Fans
+ - Pigeon
+ - Involution
+ - Sweating Soybean
+ - Rocket Building
+ - Socialism
+
+If you fell uncomfortable, please adapt as soon as possible😜
 
 [![ICEYSELF's github stats](https://github-readme-stats.vercel.app/api?username=ICEYSELF)](https://github.com/anuraghazra/github-readme-stats)
 
