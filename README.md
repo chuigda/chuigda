@@ -1,10 +1,10 @@
-### ⚠️Warning⚠️: This user may include the following contents:
+### ⚠️Warning⚠️: This user's profile may include the following contents:
  - Ancient Technology
  - Native Language Fundamentalism
  - Racket YYDS
  - Anti-Fans
  - Pigeon
- - Involution
+ - `unsafe impl !PoliticalRight for Me {}`
  - Sweating Soybean
  - Rocket Building
  - Socialism
