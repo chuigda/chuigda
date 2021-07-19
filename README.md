@@ -11,9 +11,9 @@
 
 If you fell uncomfortable, please adapt as soon as possible😜
 
-[![ICEYSELF's github stats](https://github-readme-stats.vercel.app/api?username=ICEYSELF)](https://github.com/anuraghazra/github-readme-stats)
+![ICEYSELF's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=ICEYSELF&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICEYSELF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ICEYSELF&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER)
 
 <!--
 **ICEYSELF/ICEYSELF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
