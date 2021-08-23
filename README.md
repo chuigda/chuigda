@@ -8,7 +8,7 @@
  - Sweating Soybean
  - Rocket Building
  - Military race
- - Socialism
+ - Socialism + Hive Mind/Gestalt
 
 If you fell uncomfortable, please adapt as soon as possible😜
 
