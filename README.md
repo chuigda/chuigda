@@ -1,4 +1,4 @@
-[中文版本](https://github.com/ICEYSELF/ICEYSELF/blob/main/README.md)
+[中文版本](https://github.com/ICEYSELF/ICEYSELF/blob/main/README_cn.md)
 
 ### ⚠️Warning⚠️: This user's profile may include the following contents:
  - Ancient Technology
