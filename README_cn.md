@@ -21,6 +21,6 @@
   - "Chui" 的意思是 “锤”
   - "gda" 来源于 [Agda](https://github.com/agda/agda)
 
-![ICEYSELF's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=ICEYSELF&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
+![Chuigda's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=chuigda&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ICEYSELF&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=chuigda&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER)
