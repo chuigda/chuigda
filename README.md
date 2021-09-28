@@ -1,4 +1,4 @@
-[中文版本](https://github.com/ICEYSELF/ICEYSELF/blob/main/README_cn.md)
+[中文版本](https://github.com/chuigda/chuigda/blob/main/README_cn.md)
 
 ### ⚠️Warning⚠️: This user's profile may include the following contents:
  - Ancient Technology
@@ -23,6 +23,6 @@ If you fell uncomfortable, please adapt as soon as possible😜
   - "Chui" stands for hammer or mallet in Chinese
   - "gda" comes from [Agda](https://github.com/agda/agda)
 
-![ICEYSELF's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=ICEYSELF&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
+![Chuigda's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=chuigda&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ICEYSELF&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=chuigda&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER)
