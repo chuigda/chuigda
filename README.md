@@ -1,5 +1,7 @@
 [中文版本](https://github.com/chuigda/chuigda/blob/main/README_cn.md)
 
+Gitblit mirror: https://120.78.128.153:8443/
+
 ### ⚠️Warning⚠️: This user's profile may include the following contents:
  - Ancient Technology
  - Native Language Fundamentalism
