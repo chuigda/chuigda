@@ -17,7 +17,7 @@ Gitblit mirror: https://120.78.128.153:8443/
 If you fell uncomfortable, please adapt as soon as possible😜
 
 ### About Chuigda WhiteGive
-- 🔭 I’m currently working on [Pr47](https://github.com/Pr47/Pr47).
+- 🔭 I’m currently working on [Pr47](https://github.com/Pr47/Pr47) and [Pr705](https://github.com/chuigda/Project-705).
 - 🌱 I’m currently learning [unsafe Rust](https://doc.rust-lang.org/nomicon).
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [icey@icey.tech](mailto://icey@icey.tech)
