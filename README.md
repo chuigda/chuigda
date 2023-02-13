@@ -20,7 +20,9 @@ If you fell uncomfortable, please adapt as soon as possible😜
 - 🔭 I’m currently working on [Pr47](https://github.com/Pr47/Pr47) and [Pr705](https://github.com/chuigda/Project-705).
 - 🌱 I’m currently learning [unsafe Rust](https://doc.rust-lang.org/nomicon).
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [icey@icey.tech](mailto://icey@icey.tech)
+- 📫 How to reach me: 
+  - Personal website: [self.icey.tech](https://self.icey.tech)
+  - Email: [icey@icey.tech](mailto://icey@icey.tech)
 - ⚡ Fun fact: My nickname "Chuigda" comes from [this file name](https://github.com/ice1000/learn/blob/master/Agda/Chuigda.agda).
   - "Chui" stands for hammer or mallet in Chinese
   - "gda" comes from [Agda](https://github.com/agda/agda)
