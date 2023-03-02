@@ -1,5 +1,3 @@
-Gitblit 镜像：https://120.78.128.153:8443
-
 ### ⚠️警告⚠️: 用户数据中可能包含以下信息
  - 远古技术
  - Native 语言原教旨主义
@@ -18,7 +16,9 @@ Gitblit 镜像：https://120.78.128.153:8443
 - 🔭 我正在忙 [Pr47](https://github.com/Pr47/Pr47).
 - 🌱 我最近在学 [unsafe Rust](https://doc.rust-lang.org/nomicon).
 - 😄 人称代词: 他
-- 📫 联系方式: [icey@icey.tech](mailto://icey@icey.tech)
+- 📫 联系方式: 
+  - 个人网站：[self.icey.tech](https://self.icey.tech)
+  - 邮件：[icey@icey.tech](mailto://icey@icey.tech)
 - ⚡ 有趣的事: 我的网名 "Chuigda" 来源于 [这个文件名](https://github.com/ice1000/learn/blob/master/Agda/Chuigda.agda).
   - "Chui" 的意思是 “锤”
   - "gda" 来源于 [Agda](https://github.com/agda/agda)
