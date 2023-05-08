@@ -10,7 +10,8 @@
  - Sweating Soybean
  - Rocket Building
  - Military race
- - Socialism + Hive Mind/Gestalt
+ - Socialism/Communism/Sovietskiy
+ - Orange juice 🍹
 
 If you fell uncomfortable, please adapt as soon as possible😜
 
