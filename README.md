@@ -17,7 +17,7 @@ If you fell uncomfortable, please adapt as soon as possible😜
 
 ### About Chuigda WhiteGive
 - 🔭 I’m currently working on [Project-Vk](https://github.com/chuigda/Project-Vk), [Project-WG](https://github.com/chuigda/Project-WG) and [Pr705](https://github.com/chuigda/Project-705).
-- 🌱 I’m currently learning [unsafe Rust](https://doc.rust-lang.org/nomicon).
+- 🌱 I’m currently learning Computer Graphics, Vulkan and many funny things.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
   - Personal website: [self.icey.tech](https://self.icey.tech)
