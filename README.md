@@ -1,5 +1,3 @@
-[中文版本](https://github.com/chuigda/chuigda/blob/main/README_cn.md)
-
 ### ⚠️Warning⚠️: This user's profile may include the following contents:
  - Ancient Technology
  - Native Language Fundamentalism
@@ -10,6 +8,7 @@
  - Sweating Soybean
  - Rocket Building
  - Military race
+ - Hyperblunderemia
  - Socialism/Communism/Sovietskiy
  - Orange juice 🍹
 
