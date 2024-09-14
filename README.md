@@ -1,6 +1,6 @@
 ### ⚠️Warning⚠️: This user's profile may include the following contents:
  - Ancient Technology
- - Native Language Fundamentalism
+ - <del>Native Language Fundamentalism</del> Say hail to Java!
  - Racket YYDS
  - Anti-Fans
  - Pigeon
