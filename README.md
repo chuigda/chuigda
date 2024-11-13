@@ -1,10 +1,10 @@
 ### ⚠️Warning⚠️: This user's profile may include the following contents:
- - Ancient Technology
  - <del>Native Language Fundamentalism</del> Say hail to Java!
  - Racket YYDS
+ - Ancient Technology enthu???st (Forgot how to spell)
  - Anti-Fans
  - Pigeon
- - `unsafe impl !PoliticalRight for Me {}`
+ - `!(me instanceof PoliticalRight)`
  - Sweating Soybean
  - Rocket Building
  - Military race
@@ -15,7 +15,7 @@
 If you fell uncomfortable, please adapt as soon as possible😜
 
 ### About Chuigda WhiteGive
-- 🔭 I’m currently working on [Project-WGX](https://github.com/chuigda/Project-WGX) and [Project-602](https://github.com/chuigda/Project-602).
+- 🔭 I’m currently working on [vulkan4j](https://github.com/chuigda/vulkan4j) and [Project-602](https://github.com/chuigda/Project-602).
 - 🌱 I’m currently learning Computer Graphics, Vulkan, Chess and many funny things.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
