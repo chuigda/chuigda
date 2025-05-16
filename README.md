@@ -4,7 +4,7 @@
  - Ancient Technology enthu???st (Forgot how to spell)
  - Anti-Fans
  - Pigeon
- - `!(me instanceof PoliticalRight)`
+ - `!(me instanceof PoliticallyCorrect)`
  - Sweating Soybean
  - Rocket Building
  - Military race
