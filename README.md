@@ -20,7 +20,7 @@ If you fell uncomfortable, please adapt as soon as possible😜
 ### About Chuigda WhiteGive
 - 🔭 I’m currently working on [vulkan4j](https://github.com/chuigda/vulkan4j) and [6K14M](https://github.com/chuigda/6K14M).
 - 🌱 I’m currently learning Computer Graphics, Vulkan, Chess and many funny things.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: `[object Object]`
 - 📫 How to reach me: 
   - Personal website: [chuigda.doki7.club](https://chuigda.doki7.club)
   - Email: [chuigda@doki7.club](mailto://chuigda@doki7.club)
