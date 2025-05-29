@@ -1,18 +1,19 @@
-<img src="https://github.com/user-attachments/assets/2510c630-43b9-42aa-94e3-b092acc7219d" alt="故意挑事" style="display: float; float: right" />
-
 ### ⚠️Warning⚠️: This user's profile may include the following contents:
- - <del>Native Language Fundamentalism</del> Say hail to Java!
- - Racket YYDS
- - Ancient Technology enthu???st (Forgot how to spell)
- - Anti-Fans
- - Pigeon
- - `!(me instanceof PoliticallyCorrect)`
- - Sweating Soybean
- - Rocket Building
- - Military race
- - Hyperblunderemia
- - Socialism/Communism/Sovietskiy
- - Orange juice 🍹
+
+<img src="https://github.com/user-attachments/assets/2510c630-43b9-42aa-94e3-b092acc7219d" alt="故意挑事" align="right" width="410px" />
+
+- <del>Native Language Fundamentalism</del> Say hail to Java!
+- Racket YYDS
+- Ancient Technology enthu???st (Forgot how to spell)
+- Anti-Fans
+- Pigeon
+- `!(me instanceof PoliticallyCorrect)`
+- Sweating Soybean
+- Rocket Building
+- Military race
+- Hyperblunderemia
+- Socialism/Communism/Sovietskiy
+- Orange juice 🍹
 
 If you fell uncomfortable, please adapt as soon as possible😜
 
