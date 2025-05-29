@@ -28,6 +28,6 @@ If you fell uncomfortable, please adapt as soon as possible😜
   - "Chui" stands for hammer or mallet in Chinese
   - "gda" comes from [Agda](https://github.com/agda/agda)
 
-![Chuigda's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=chuigda&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
-
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=chuigda&langs_count=10&layout=compact&role=OWNER)
+
+![Chuigda's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=chuigda&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
