@@ -22,8 +22,8 @@ If you fell uncomfortable, please adapt as soon as possible😜
 - 🌱 I’m currently learning Computer Graphics, Vulkan, Chess and many funny things.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
-  - Personal website: [self.icey.tech](https://self.icey.tech)
-  - Email: [icey@icey.tech](mailto://icey@icey.tech)
+  - Personal website: [chuigda.doki7.club](https://chuigda.doki7.club)
+  - Email: [chuigda@doki7.club](mailto://chuigda@doki7.club)
 - ⚡ Fun fact: My nickname "Chuigda" comes from [this file name](https://github.com/ice1000/learn/blob/master/Agda/Chuigda.agda).
   - "Chui" stands for hammer or mallet in Chinese
   - "gda" comes from [Agda](https://github.com/agda/agda)
