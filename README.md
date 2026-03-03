@@ -2,7 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/2510c630-43b9-42aa-94e3-b092acc7219d" alt="故意挑事" align="right" width="410px" />
 
-- INFP-T (I 90%, N 85%, F 55%, P 80%, T 75%)
 - <del>Native Language Fundamentalism</del> Say hail to Java!
 - Racket YYDS
 - Ancient Technology enthu???st (Forgot how to spell)
@@ -19,9 +18,10 @@
 If you fell uncomfortable, please adapt as soon as possible😜
 
 ### About Chuigda WhiteGive
+- INFP-T (I 90%, N 85%, F 55%, P 80%, T 75%)
 - 🔭 I’m currently working on [vulkan4j](https://github.com/chuigda/vulkan4j) and [PL12](https://github.com/club-doki7/Project-PL12).
 - 🌱 I’m currently learning Type Theory, Proof Assistants, Vulkan, Chess and many funny things.
-- 😄 Pronouns: `[object Object]`
+- 😄 Pronouns: `java.lang.Object`
 - 📫 How to reach me: 
   - Personal website: [chuigda.doki7.club](https://chuigda.doki7.club)
   - Email: [chuigda@doki7.club](mailto://chuigda@doki7.club)
