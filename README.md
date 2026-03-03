@@ -2,6 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/2510c630-43b9-42aa-94e3-b092acc7219d" alt="故意挑事" align="right" width="410px" />
 
+- INFP-T (I 90%, N 85%, F 55%, P 80%, T 75%)
 - <del>Native Language Fundamentalism</del> Say hail to Java!
 - Racket YYDS
 - Ancient Technology enthu???st (Forgot how to spell)
