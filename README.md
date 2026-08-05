@@ -19,10 +19,10 @@ If you fell uncomfortable, please adapt as soon as possible😜
 
 ### About Chuigda WhiteGive
 - INFP-T (I 90%, N 85%, F 55%, P 80%, T 75%)
-- 🔭 I’m currently working on [vulkan4j](https://github.com/chuigda/vulkan4j) and [PL12](https://github.com/club-doki7/Project-PL12).
+- 🔭 I’m currently working on [vulkan4j](https://github.com/chuigda/vulkan4j) and [rakia-verse](https://github.com/club-doki7/rakia-verse).
 - 🌱 I’m currently learning Type Theory, Proof Assistants, Vulkan, Chess and many funny things.
 - 😄 Pronouns: `java.lang.Object`
-- 📫 How to reach me: 
+- 📫 How to reach me:
   - Personal website: [chuigda.doki7.club](https://chuigda.doki7.club)
   - Email: [chuigda@doki7.club](mailto://chuigda@doki7.club)
 - ⚡ Fun fact: My nickname "Chuigda" comes from [this file name](https://github.com/ice1000/learn/blob/master/Agda/Chuigda.agda).
